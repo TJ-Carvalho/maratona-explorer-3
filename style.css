@@ -42,7 +42,7 @@ header h1 {
 }
 
 header h1 span {
-  color: #995000;
+  color: blue;
 }
 
 header p {
@@ -58,12 +58,21 @@ section {
 }
 
 section h2 {
-  background-color: #fed7aa;
+  background-color: rgb(0, 0, 255);
   padding: 8px 16px;
   text-align: center;
+  color: white;
 
   margin-bottom: 24px;
   font-size: 18px;
+}
+
+#venda {
+  font-family: 'Roboto Serif', serif;
+  text-align: center;
+  color: black;
+  font-size: 18px;
+  margin-bottom: 16px;
 }
 
 /* LISTA */
